@@ -1,4 +1,4 @@
-# JohnsenDataPack
+# JohnsenPack (Datapack)
 Custom datapack developed by Johnson’s Legacy
 
 Current Features:
