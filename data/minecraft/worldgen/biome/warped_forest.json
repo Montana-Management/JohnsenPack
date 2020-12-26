@@ -77,10 +77,16 @@
     "monster": [
       {
         "type": "minecraft:enderman",
-        "weight": 1,
+        "weight": 10,
         "minCount": 4,
         "maxCount": 4
       }
+      {
+        "type": "minecraft:illusioner",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 1
+      },      
     ],
     "creature": [
       {
