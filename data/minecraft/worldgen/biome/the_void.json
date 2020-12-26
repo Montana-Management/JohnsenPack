@@ -2,7 +2,7 @@
   "scale": 0.2,
   "effects": {
     "mood_sound": {
-      "sound": "minecraft:ambient.cave",
+      "sound": "minecraft:music.creative",
       "tick_delay": 6000,
       "block_search_extent": 8,
       "offset": 2.0
