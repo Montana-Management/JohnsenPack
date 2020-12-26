@@ -86,10 +86,10 @@
         "maxCount": 4
       },
       {
-        "type": "minecraft:zombie_villager",
+        "type": "minecraft:ravager",
         "weight": 5,
         "minCount": 1,
-        "maxCount": 1
+        "maxCount": 2
       },
       {
         "type": "minecraft:skeleton",
